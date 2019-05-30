@@ -20,7 +20,7 @@ public class GameControllerScript : MonoBehaviour {
 	//String para coletar a palavra digitada no InputField;
 	public string word;
 
-	public void buttonPressed(){
+	public void buttonPressed() {
 
 		word = entryText.text;
 
@@ -39,5 +39,4 @@ public class GameControllerScript : MonoBehaviour {
 
 		yield return new WaitForSeconds (5);
 	}
-
 }
