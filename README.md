@@ -1,3 +1,2 @@
 # Grafos-Unity
-Trabalho Valdick para a NP2 da matéria de alguma coisa de linguagens :)
-
+Trabalho sobre grafos para a faculdade de ciência da computação
